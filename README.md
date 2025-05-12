@@ -4,13 +4,13 @@ An interactive tool using OpenCV for creating binary segmentation masks by freeh
 
 ## Features
 
-- ✅ Brush drawing with adjustable size
-- ✅ Undo/Redo with right-click
-- ✅ Mouse wheel for brush resizing
-- ✅ Save mask + next image with Enter or mouse middle-click
-- ✅ Skip to next image with ESC
-- ✅ Automatically resizes images to 224x224
-- ✅ Saves binary masks in PNG with alpha channel
+- Brush drawing with adjustable size
+- Undo/Redo with right-click
+- Mouse wheel for brush resizing
+- Save mask + next image with Enter or mouse middle-click
+- Skip to next image with ESC
+- Automatically resizes images to 224x224
+- Saves binary masks in PNG with alpha channel
 
 ## Hotkeys and Controls
 

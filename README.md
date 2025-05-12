@@ -2,17 +2,6 @@
 
 An interactive tool using OpenCV for creating binary segmentation masks by freehand drawing with the mouse.
 
-image-mask-annotator/
-│
-├── annotator.py                # Main annotation script
-├── requirements.txt            # Python dependencies
-├── README.md                   # Usage guide and project description
-└── dataset/
-    ├── Source_Image/           # Input images (jpg/png)
-    ├── Mask/                   # Output binary masks (PNG with alpha)
-    └── Image/                  # Resized annotated images (JPG)
-
-
 ## Features
 
 - Brush drawing with adjustable size

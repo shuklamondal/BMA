@@ -40,5 +40,5 @@ BMA-main/
 
 ```bash
 git clone https://github.com/shuklamondal/BMA.git
-cd binary-mask-annotator
+cd BMA-main
 pip install -r requirements.txt

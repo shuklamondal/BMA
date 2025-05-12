@@ -27,7 +27,7 @@ An interactive tool using OpenCV for creating binary segmentation masks by freeh
 ## Directory Structure
 
 ```text
-image-mask-annotator/
+BMA-main/
 ├── annotator.py           # Main annotation script
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
